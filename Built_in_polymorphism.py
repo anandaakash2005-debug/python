@@ -1,0 +1,10 @@
+print(len("Python"))
+print(len([10,20,30]))
+print(len({"a":1,"b":2}))
+
+print(3+2)
+print("Geeks"+"for"+"geeks")
+print(10 < 100)
+print("Geeks" < "geeks")
+print(10*2)
+print("geeks"*2)
